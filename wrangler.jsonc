@@ -1,0 +1,13 @@
+{
+  "name": "invoice-generator",
+  "compatibility_date": "2025-01-01",
+  "build": {
+    "command": "bun run build"
+  },
+  "dev": {
+    "command": "bun run dev"
+  },
+  "start": {
+    "command": "bun run start"
+  }
+}
